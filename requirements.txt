@@ -1,0 +1,4 @@
+﻿flask
+scikit-learn
+joblib
+numpy
